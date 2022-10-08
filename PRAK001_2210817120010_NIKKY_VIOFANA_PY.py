@@ -1,0 +1,1 @@
+print("saya calon programmer No.1")
